@@ -11,3 +11,12 @@
 
 #!.yarn/cache
 .pnp.*
+
+# yarn berry
+.yarn/*
+!.yarn/cache # zero install을 하는 경우에만
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
