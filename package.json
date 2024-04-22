@@ -6,5 +6,9 @@
     "packages": [
       "packages/**"
     ]
+  },
+  "scripts": {
+    "p1": "yarn workspace project1",
+    "p2": "yarn workspace project2"
   }
 }
