@@ -1,4 +1,10 @@
 {
-  "name": "Vite-monorepo",
-  "packageManager": "yarn@4.1.1"
+  "name": "monorepo",
+  "private": true,
+  "packageManager": "yarn@4.1.1",
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  }
 }
