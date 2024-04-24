@@ -26,6 +26,9 @@
     },
     {
       "path": "./packages/project2"
+    },
+    {
+      "path": "./packages/common"
     }
   ]
 }
