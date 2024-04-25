@@ -9,7 +9,8 @@
   },
   "scripts": {
     "p1": "yarn workspace project1",
-    "p2": "yarn workspace project2"
+    "p2": "yarn workspace project2",
+    "common": "yarn workspace common"
   },
   "dependencies": {
     "typescript": "^5.4.5"
