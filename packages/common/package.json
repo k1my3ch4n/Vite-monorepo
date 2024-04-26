@@ -29,7 +29,7 @@
   "exports": {
     "./hooks": {
       "import": "./dist/hooks.js",
-      "types": "./dist/useCount/index.d.ts"
+      "types": "./dist/hooks/index.d.ts"
     }
   },
   "files": [
