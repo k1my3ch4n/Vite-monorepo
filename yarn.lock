@@ -596,7 +596,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@k1my3ch4n/common@workspace:^, @k1my3ch4n/common@workspace:packages/k1my3ch4n":
+"@k1my3ch4n/common@npm:0.0.1, @k1my3ch4n/common@workspace:packages/k1my3ch4n":
   version: 0.0.0-use.local
   resolution: "@k1my3ch4n/common@workspace:packages/k1my3ch4n"
   dependencies:
@@ -3051,7 +3051,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "project1@workspace:packages/project1"
   dependencies:
-    "@k1my3ch4n/common": "workspace:^"
+    "@k1my3ch4n/common": "npm:0.0.1"
     "@types/react": "npm:^18.2.66"
     "@types/react-dom": "npm:^18.2.22"
     "@typescript-eslint/eslint-plugin": "npm:^7.2.0"
