@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "k1my3ch4n": "workspace:^",
+    "@k1my3ch4n/common": "workspace:^",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

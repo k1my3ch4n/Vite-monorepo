@@ -1,16 +1,15 @@
 {
   "name": "monorepo",
-  "private": true,
   "packageManager": "yarn@4.1.1",
   "workspaces": {
     "packages": [
-      "packages/**"
+      "packages/*"
     ]
   },
   "scripts": {
     "p1": "yarn workspace project1",
     "p2": "yarn workspace project2",
-    "k1my3ch4n": "yarn workspace k1my3ch4n"
+    "common": "yarn workspace @k1my3ch4n/common"
   },
   "dependencies": {
     "typescript": "^5.4.5"
