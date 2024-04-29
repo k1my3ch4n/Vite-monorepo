@@ -2,7 +2,7 @@
   "name": "k1my3ch4n",
   "composite": true,
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

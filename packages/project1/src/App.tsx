@@ -1,7 +1,7 @@
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import './App.css';
-import { useCount } from 'common/hooks';
+import { useCount } from 'k1my3ch4n/hooks';
 
 function App() {
   const { count, handleCount } = useCount();
