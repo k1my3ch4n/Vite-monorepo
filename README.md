@@ -16,3 +16,6 @@
 
 ## monorepo 공통 파일 NPM publish
 - monorepo 의 common 파일을 NPM publish 하는 방법이 담겨있습니다. [참고 링크](https://velog.io/@k1my3ch4n/yarn-workspaces-%EB%A1%9C-monorepo%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-4-npm-publish) 
+
+## monorepo 공통 파일 github package publish
+- monorepo 의 common 파일을 github package publish 하는 방법이 담겨있습니다. [참고 링크](https://velog.io/@k1my3ch4n/yarn-workspaces-%EB%A1%9C-monorepo%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-4-github-package-publish)
