@@ -2,6 +2,9 @@
 
 - vite, yarn worspaces 를 사용해서 monorepo 를 구성하는 방법을 단계별로 나타내고 있습니다.
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow" />
+
+
 ## monorepo 기본 설정
 - monorepo 를 사용하면서 느낀점과 기본 설정하는 방법이 담겨있습니다. [참고 링크](https://velog.io/@k1my3ch4n/yarn-workspaces-%EB%A1%9C-monorepo%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-1-monorepo-%EC%84%A4%EC%A0%95)
 
